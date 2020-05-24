@@ -1,0 +1,4 @@
+[submodule "TransformacionDigitalInteligente/TDI-SAS"]
+	path = TransformacionDigitalInteligente/TDI-SAS
+	url = git@github.com:TransformacionDigitalInteligente/TDI-SAS.git
+	branch = PruebaDesarrollo
